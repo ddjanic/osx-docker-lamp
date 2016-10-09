@@ -1,4 +1,4 @@
-FROM phusion/baseimage:16.04
+FROM ubuntu:xenial
 MAINTAINER Nikita Bukhvostov <ddjanic@yandex.ru>
 ENV REFRESHED_AT 2016-10-10
 
